@@ -1,4 +1,4 @@
-### Salve bem vindo ao meu perfil 
+### Salve bem vindo ao meu perfil 🪽
 Meu nome é AkioriZx 
 
 - Estou estudando na Alura
