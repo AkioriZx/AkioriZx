@@ -1,5 +1,5 @@
 ### Salve bem vindo ao meu perfil 🪽
-Meu nome é AkioriZx 
+Meu nome é João Da Cruz
 
 - Estou estudando no Alura
 - Estou me desenvolvendo na linguagem JavaScript
