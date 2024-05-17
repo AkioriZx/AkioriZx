@@ -1,1 +1,6 @@
-Salve bem vindos ao meu perfil Google (Noto Color Emoji - Unicode 15.1)
+Salve bem vindos ao meu perfil 
+Meu codenome é AkioriZx
+
+Estou estudando na Alura
+Estou me desenvolvendo na linguagem JavaScript
+Utilizo esse espaço para compartilhar os meu projetos
