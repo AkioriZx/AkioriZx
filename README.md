@@ -8,7 +8,7 @@ Estou me desenvolvendo na linguagem JavaScript
 
 Utilizo esse espaço para compartilhar os meu projetos
 
-![](link)
+![](https://tenor.com/bETdD.gif)
 
 
 Um dos projetos que fiz foi o ping pong que gosto de chamar de CyberPong
