@@ -9,7 +9,7 @@ Estou me desenvolvendo na linguagem JavaScript
 Utilizo esse espaço para compartilhar os meu projetos
 
 
-![](https://tenor.com/pt-BR/view/death-note-anime-light-kira-gif-22099371)
+![](![death-note-anime](https://github.com/AkioriZx/AkioriZx/assets/169378466/4aa21805-ef05-4a91-b187-6d453d7ee7f4)
 
 
 
