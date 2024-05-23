@@ -10,5 +10,5 @@ Utilizo esse espaço para compartilhar os meu projetos
 
 Um dos projetos que fiz foi o ping pong que gosto de chamar de CyberPong
 
-Link do projeto:
+Link do projeto feito no P5.js:
 https://editor.p5js.org/EstudanteAlura/full/TiFqrrG8a
