@@ -8,8 +8,7 @@ Estou me desenvolvendo na linguagem JavaScript
 
 Utilizo esse espaço para compartilhar os meu projetos
 
-
-![](![death-note-anime](https://github.com/AkioriZx/AkioriZx/assets/169378466/4aa21805-ef05-4a91-b187-6d453d7ee7f4)
+(![death-note-anime](https://github.com/AkioriZx/AkioriZx/assets/169378466/4aa21805-ef05-4a91-b187-6d453d7ee7f4)
 
 
 
